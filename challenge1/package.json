@@ -1,0 +1,15 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "At Company we process a lot of event-level data - enrichment, transformation, aggregation, and so forth. This coding exercise is a simplified, small-scale example of this type of processing. In production we do this at scale, on heavy-duty infrastructure - but the core concepts are similar.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Asif Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
